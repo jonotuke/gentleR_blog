@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intro on GentleR Blog</title>
+    <link>/categories/intro/</link>
+    <description>Recent content in Intro on GentleR Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/intro/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to GentleR</title>
+      <link>/2019/01/25/welcome-to-gentler/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/25/welcome-to-gentler/</guid>
+      <description>Hi Everyone and Welcome to GentleR!</description>
+    </item>
+    
+  </channel>
+</rss>

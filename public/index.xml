@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GentleR Blog</title>
+    <link>/</link>
+    <description>Recent content on GentleR Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to GentleR</title>
+      <link>/2019/01/25/welcome-to-gentler/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/25/welcome-to-gentler/</guid>
+      <description>Hello and welcome</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>GentleR is everthing that you wanted to learn about R with cake involved. Our goal is to provide a place to come and share you love and fears of R. In GentleR we will work together to make us better R users.
+Remember that are no stupid questions, only things that will seem obvious tomorrow.</description>
+    </item>
+    
+    <item>
+      <title>Meeting times</title>
+      <link>/times/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/times/</guid>
+      <description>Location: Room 5.57, Ingkarni Wardli.
+Day\time: Tuesdays 9am</description>
+    </item>
+    
+  </channel>
+</rss>

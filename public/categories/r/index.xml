@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on GentleR Blog</title>
+    <link>/categories/r/</link>
+    <description>Recent content in R on GentleR Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to GentleR</title>
+      <link>/2019/01/25/welcome-to-gentler/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/25/welcome-to-gentler/</guid>
+      <description>Hi Everyone and Welcome to GentleR!</description>
+    </item>
+    
+    <item>
+      <title>Hello world</title>
+      <link>/2019/01/23/hello-world/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/23/hello-world/</guid>
+      <description>So you have been told to learn R. You have started your Ph.D, M.Phil, or other research and in your first meeting your supervisor suggested that you learn R. Actually she spent most of the meeting surprised that you had found her, and trying to remember who you are. Obviously she does not know R herself. She has only just realised it exists when last week she read the statistics part of the methods section of a paper by mistake.</description>
+    </item>
+    
+  </channel>
+</rss>
