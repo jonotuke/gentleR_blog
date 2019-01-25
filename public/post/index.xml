@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Testing code</title>
+      <link>/2019/01/25/testing-code/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/25/testing-code/</guid>
+      <description> This is code
+y &amp;lt;- rnorm(1000) hist(y) </description>
+    </item>
+    
+    <item>
       <title>Welcome to GentleR</title>
       <link>/2019/01/25/welcome-to-gentler/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>

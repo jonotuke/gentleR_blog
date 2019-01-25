@@ -1,0 +1,17 @@
+---
+title: Testing code
+author: Jono Tuke
+date: '2019-01-25'
+slug: testing-code
+categories: []
+tags: []
+draft: no
+---
+
+This is code
+
+```{r}
+y  <- rnorm(1000)
+hist(y)
+```
+
