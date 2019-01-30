@@ -6,28 +6,19 @@
     <description>Recent content in Posts on GentleR Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Testing code</title>
-      <link>/2019/01/25/testing-code/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/2019/01/25/testing-code/</guid>
-      <description> This is code
-y &amp;lt;- rnorm(1000) hist(y) </description>
-    </item>
-    
-    <item>
       <title>Welcome to GentleR</title>
-      <link>/2019/01/25/welcome-to-gentler/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      <link>/2019/01/30/welcome-to-gentler/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/01/25/welcome-to-gentler/</guid>
-      <description>Hello and welcome</description>
+      <guid>/2019/01/30/welcome-to-gentler/</guid>
+      <description>Welcome to GentleR! The place where no question is too silly, no problem is too large and no language other than R will do!
+We are a group of statisticians and researchers who meet every week, for one golden hour, to discuss all things R, statistics and research in general. Everyone is welcome to attend and the goal is to workshop through issues that people are having with R or statistics in a friendly, informative and non-judgmental way.</description>
     </item>
     
   </channel>
