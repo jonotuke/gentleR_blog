@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/contacts/</loc>
+    <lastmod>2019-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2019/01/30/how-to-write-a-blog-post/</loc>
     <lastmod>2019-01-30T00:00:00+00:00</lastmod>
   </url>

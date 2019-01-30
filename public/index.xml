@@ -12,6 +12,18 @@
     
     
     <item>
+      <title>Contact Us</title>
+      <link>/contacts/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/contacts/</guid>
+      <description>If you have any questions, queries or ideas (or want to volunteer to give a special session), please contact:
+Melissa Humphries: melissa.humphries@adelaide.edu.au
+Rachael Quill: rachael.quill@adelaide.edu.au
+Jono Tuke: simon.tuke@adelaide.edu.au</description>
+    </item>
+    
+    <item>
       <title>How to write a blog post</title>
       <link>/2019/01/30/how-to-write-a-blog-post/</link>
       <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
@@ -42,7 +54,7 @@ Day\time: Tuesdays 9am</description>
     </item>
     
     <item>
-      <title>Wecome to GentleR</title>
+      <title>Welcome to GentleR</title>
       <link>/about/</link>
       <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
       

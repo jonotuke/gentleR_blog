@@ -1,6 +1,6 @@
 ---
 date: "23 Jan 2019"
-title: Wecome to GentleR
+title: Welcome to GentleR
 ---
 
 Welcome to GentleR! The place where no question is too silly, no problem is too large and no language other than R will do! 	
