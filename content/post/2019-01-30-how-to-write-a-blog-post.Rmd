@@ -1,0 +1,59 @@
+---
+title: How to write a blog post
+author: Melissa Humphries
+date: '2019-01-30'
+slug: how-to-write-a-blog-post
+categories:
+  - blogdown
+  - rMarkdown
+tags:
+  - Blogdown
+draft: no
+---
+
+Hi Everyone,
+
+As you can (possibly) see, this blog has been created using blogdown. Blogdown is an R package that, Rmarkdown style, takes your info and creates a blog with them! Cool huh? So, as a complete newby to this wonderful bit of awesome, I'm going to write down the steps you need to write a post for this blog!... Possibly so I can remind myself how to do it later... but also so that you can see some steps if you'd like to try and write your own!
+
+### Things to install
+
+First up, you're going to need to install the blogdown package in R. You will also need to install hugo which is best acheived using the following code: 
+
+```{r, eval=FALSE}
+blogdown:install_hugo
+```
+
+For this blog, we are using github to manage our collaboration. That's not essential, but it does make a few things nice and easy... To make it even easier, install the desktop app for github now and sign into your account. Now make sure that you are in the repository that houses your blog. That's going to make things much smoother later.
+
+### Write the new post
+
+On the top bar of the RStudio window, there should be a button called _Addins_. Click on that and choose _New Post_. This will prompt you to add in a bunch of information. The key things to add are the title of your post and the author/s. Select `.Rmd` as the output file and press done.
+
+What you should see now is an RMarkdown style document with yaml at the top defining the title, authors, date and tags you may have chosen to apply. Inside the yaml section (that's between the two `---` bits), you will need to add an extra line:
+
+```{r, eval=FALSE}
+draft: no
+```
+
+Without this, it will not end up on your blog. This is not a default setting, you wll need to add it in.
+
+From here, you are free to write your blog! You follow all of the same rules as you would using Rmarkdown.
+
+### View your work
+
+To see how your post is getting along (and make sure it looks as pretty as you'd like it to), you need to go back to the _Addins_ menu. This time, choose _Serve Site_. This will show you a preview of the blog in your `viewer` window.
+
+Once you have viewed it, click on the page with the red cross in the top left of the `viewer` window. This will remove the current viewer item so that you can view it again later once you have made further progress with your draft.
+
+### Publish your work to the blog
+
+OK, so your happy with your post and you want to make it live! This is how to get that done:
+
+ - Save your file.
+ - Go to _Addins_ and _Serve Site_ one final time to make sure everything is in order.
+ - Look for the _Build_ tab (possibly in the same window as your _Environment_ tab) and click on the _Build Website_ button (it has a little hammer next to it).
+ - Now open your github app. You should already be in the repositry that houses your blog... if you're not, go there now.
+ - Once you're in the correct repository, you should see a long list of things that summarise all of the changes you've made. They should all be ticked. Don't change that.
+ - Write something in the `Summary (required)` section that summarises the changes you have made.
+ - PRess `Commit to master`
+

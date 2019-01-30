@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>How to write a blog post</title>
+      <link>/2019/01/30/how-to-write-a-blog-post/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/30/how-to-write-a-blog-post/</guid>
+      <description>Hi Everyone,
+As you can (possibly) see, this blog has been created using blogdown. Blogdown is an R package that, Rmarkdown style, takes your info and creates a blog with them! Cool huh? So, as a complete newby to this wonderful bit of awesome, I’m going to write down the steps you need to write a post for this blog!… Possibly so I can remind myself how to do it later… but also so that you can see some steps if you’d like to try and write your own!</description>
+    </item>
+    
+    <item>
       <title>Welcome to GentleR</title>
       <link>/2019/01/30/welcome-to-gentler/</link>
       <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>

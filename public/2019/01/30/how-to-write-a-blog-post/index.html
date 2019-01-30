@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en-uk">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Hugo 0.53" />
+
+
+<title>How to write a blog post - GentleR Blog</title>
+<meta property="og:title" content="How to write a blog post - GentleR Blog">
+
+
+
+  
+
+
+
+
+
+
+
+
+<link href='//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css' rel='stylesheet' type='text/css' />
+
+
+
+<link rel="stylesheet" href="/css/fonts.css" media="all">
+<link rel="stylesheet" href="/css/main.css" media="all">
+
+
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav">
+  <a href="/" class="nav-logo">
+    <img src="/images/logo.png"
+         width="50"
+         height="50"
+         alt="Logo">
+  </a>
+
+  <ul class="nav-links">
+    
+    <li><a href="/about/">About</a></li>
+    
+    <li><a href="/times/">Meeting times</a></li>
+    
+  </ul>
+</nav>
+
+      </header>
+
+
+<main class="content" role="main">
+
+  <article class="article">
+    
+    <span class="article-duration">3 min read</span>
+    
+
+    <h1 class="article-title">How to write a blog post</h1>
+
+    
+    <span class="article-date">2019/01/30</span>
+    
+
+    <div class="article-content">
+      
+
+
+<p>Hi Everyone,</p>
+<p>As you can (possibly) see, this blog has been created using blogdown. Blogdown is an R package that, Rmarkdown style, takes your info and creates a blog with them! Cool huh? So, as a complete newby to this wonderful bit of awesome, I’m going to write down the steps you need to write a post for this blog!… Possibly so I can remind myself how to do it later… but also so that you can see some steps if you’d like to try and write your own!</p>
+<div id="things-to-install" class="section level3">
+<h3>Things to install</h3>
+<p>First up, you’re going to need to install the blogdown package in R. You will also need to install hugo which is best acheived using the following code:</p>
+<pre class="r"><code>blogdown:install_hugo</code></pre>
+<p>For this blog, we are using github to manage our collaboration. That’s not essential, but it does make a few things nice and easy… To make it even easier, install the desktop app for github now and sign into your account. Now make sure that you are in the repository that houses your blog. That’s going to make things much smoother later.</p>
+</div>
+<div id="write-the-new-post" class="section level3">
+<h3>Write the new post</h3>
+<p>On the top bar of the RStudio window, there should be a button called <em>Addins</em>. Click on that and choose <em>New Post</em>. This will prompt you to add in a bunch of information. The key things to add are the title of your post and the author/s. Select <code>.Rmd</code> as the output file and press done.</p>
+<p>What you should see now is an RMarkdown style document with yaml at the top defining the title, authors, date and tags you may have chosen to apply. Inside the yaml section (that’s between the two <code>---</code> bits), you will need to add an extra line:</p>
+<pre class="r"><code>draft: no</code></pre>
+<p>Without this, it will not end up on your blog. This is not a default setting, you wll need to add it in.</p>
+<p>From here, you are free to write your blog! You follow all of the same rules as you would using Rmarkdown.</p>
+</div>
+<div id="view-your-work" class="section level3">
+<h3>View your work</h3>
+<p>To see how your post is getting along (and make sure it looks as pretty as you’d like it to), you need to go back to the <em>Addins</em> menu. This time, choose <em>Serve Site</em>. This will show you a preview of the blog in your <code>viewer</code> window.</p>
+<p>Once you have viewed it, click on the page with the red cross in the top left of the <code>viewer</code> window. This will remove the current viewer item so that you can view it again later once you have made further progress with your draft.</p>
+</div>
+<div id="publish-your-work-to-the-blog" class="section level3">
+<h3>Publish your work to the blog</h3>
+<p>OK, so your happy with your post and you want to make it live! This is how to get that done:</p>
+<ul>
+<li>Save your file.</li>
+<li>Go to <em>Addins</em> and <em>Serve Site</em> one final time to make sure everything is in order.</li>
+<li>Look for the <em>Build</em> tab (possibly in the same window as your <em>Environment</em> tab) and click on the <em>Build Website</em> button (it has a little hammer next to it).</li>
+<li>Now open your github app. You should already be in the repositry that houses your blog… if you’re not, go there now.</li>
+<li>Once you’re in the correct repository, you should see a long list of things that summarise all of the changes you’ve made.</li>
+</ul>
+</div>
+
+    </div>
+  </article>
+
+  
+
+
+</main>
+
+      <footer class="footer">
+        <ul class="footer-links">
+          <li>
+            <a href="/index.xml" type="application/rss+xml" target="_blank">RSS feed</a>
+          </li>
+          <li>
+            <a href="https://gohugo.io/" class="footer-links-kudos">Made with <img src="/images/hugo-logo.png" alt="Img link to Hugo website" width="22" height="22"></a>
+          </li>
+        </ul>
+      </footer>
+
+    </div>
+    
+
+
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+
+
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/r.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/yaml.min.js"></script>
+<script>hljs.configure({languages: []}); hljs.initHighlightingOnLoad();</script>
+
+
+
+    
+
+    
+  </body>
+</html>
+
