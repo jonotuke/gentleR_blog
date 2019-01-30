@@ -17,8 +17,10 @@ Some topics you might like to bring along will include:
  - How do I get R to ....?
  - What sort of analysis should I use for my research?
  - I just found this R package, what's it all about?
- - Where should I look for support on how to ...?
+ - Where should I look for support on how to ...? 
+ - I've been using this cool package and I want to tell you about it!
 
+In fact, we may have guest speakers from time to time who will present on a variety of interesting topics. These will be advertised on the blog in advance. And, if you'd like to be one of our presenters (or know someone who would), then let us know!
 
 No problem is too big, no question is too small! The goal is to work together to make us better R users... Although new collaborations have been know to form in such environments in the past too... 
 
