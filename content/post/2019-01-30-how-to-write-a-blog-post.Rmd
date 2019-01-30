@@ -55,5 +55,8 @@ OK, so your happy with your post and you want to make it live! This is how to ge
  - Now open your github app. You should already be in the repositry that houses your blog... if you're not, go there now.
  - Once you're in the correct repository, you should see a long list of things that summarise all of the changes you've made. They should all be ticked. Don't change that.
  - Write something in the `Summary (required)` section that summarises the changes you have made.
- - PRess `Commit to master`
+ - Press `Commit to master`
+ - Press the `Push to Origin` button that appears.
+ 
+You're all done!
 
