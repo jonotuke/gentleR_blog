@@ -13,13 +13,17 @@
   </url>
   
   <url>
+    <loc>/times/</loc>
+    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <lastmod>2019-01-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/times/</loc>
-    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+    <loc>/about/</loc>
   </url>
   
   <url>
