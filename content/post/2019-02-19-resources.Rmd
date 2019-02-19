@@ -1,0 +1,17 @@
+---
+title: Resources
+author: Jono Tuke
+date: '2019-02-19'
+slug: resources
+categories:
+  - Resources
+tags:
+  - Resources
+---
+
+# R for data science
+
+<https://r4ds.had.co.nz/>
+
+This is a great starting point for anyone new to R who would like to learn the tidyverse. Also a good recap for old users as well. 
+
