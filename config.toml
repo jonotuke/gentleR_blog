@@ -25,6 +25,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "Slack"
     url = "https://join.slack.com/t/gentler/shared_invite/enQtNTU0MzM3NjQwNTAwLTViZWQxZjhkYWY1YWFiZGYwZjdjOWNlZWQ0N2NjYTlkOWE1MGRjODMwZWRjMDg5NWFmMTJkZjY5MWJkYWQ4NzE"
 
+[[menu.main]]
+    name = "Resources"
+    url = "/resources/"
+    
 [params]
     description = "A website built through Hugo and blogdown."
 

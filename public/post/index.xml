@@ -6,24 +6,10 @@
     <description>Recent content in Posts on GentleR Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Tue, 19 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Resources</title>
-      <link>/2019/02/19/resources/</link>
-      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/2019/02/19/resources/</guid>
-      <description> R for data science https://r4ds.had.co.nz/
-This is a great starting point for anyone new to R who would like to learn the tidyverse. Also a good recap for old users as well.
- Cheat sheets You can get the cheat sheets by
-Help &amp;gt; Cheatsheets or
-https://www.rstudio.com/resources/cheatsheets/
- </description>
-    </item>
     
     <item>
       <title>How to write a blog post</title>
