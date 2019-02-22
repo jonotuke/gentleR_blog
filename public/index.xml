@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>First GentleR Session</title>
+      <link>/2019/02/19/first-gentler-session/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/02/19/first-gentler-session/</guid>
+      <description>What a fantastic start to GentleR! We had a room full of over 20 R enthusiasts from long-term users through to newcomers wanting to know more. We had representation across so many levels and fields, from PhD students to Professors, and from Spatial Sciences, Biology and Ecology to Chemical Engineering, Economics and even Maths and Stats! While everyone in the room professed to knowing how to do linear regression in R, only about a quarter of us had written packages and/or built shiny apps.</description>
+    </item>
+    
+    <item>
       <title>Resources</title>
       <link>/resources/</link>
       <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
