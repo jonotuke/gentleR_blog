@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on GentleR Blog</title>
+    <link>/tags/git/</link>
+    <description>Recent content in Git on GentleR Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mangling your git and other euphemisms</title>
+      <link>/2019/02/27/mangling-your-git-and-other-euphemisms/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/02/27/mangling-your-git-and-other-euphemisms/</guid>
+      <description>The program git gives you the ability to take snapshots of your work and at a later date get stuff back. No more files named
+analysis_final.R analysis_28thFeb.R analysis_I_hope_this_is_the_end.R Installing git depends on your system, try looking at
+https://guides.github.com/activities/hello-world/
+or
+searching
+installing git on ?? https://happygitwithr.com/
+Terminal The main process for the terminal are:
+Change directory to the folder with your work  cd my_directory Set up git in that folder with  git init Now to take a snapshot, we do two things, first we let git know if any files should be snapshotted with  git add myfile.</description>
+    </item>
+    
+  </channel>
+</rss>

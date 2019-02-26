@@ -1,0 +1,64 @@
+---
+title: Mangling your git and other euphemisms
+author: Jono Tuke
+date: '2019-02-27'
+slug: mangling-your-git-and-other-euphemisms
+categories:
+  - git
+tags:
+  - git
+draft: no
+---
+
+
+
+<p>The program git gives you the ability to take snapshots of your work and at a later date get stuff back. No more files named</p>
+<pre class="bash"><code>analysis_final.R
+analysis_28thFeb.R
+analysis_I_hope_this_is_the_end.R</code></pre>
+<p>Installing <code>git</code> depends on your system, try looking at</p>
+<p><a href="https://guides.github.com/activities/hello-world/" class="uri">https://guides.github.com/activities/hello-world/</a></p>
+<p>or</p>
+<p>searching</p>
+<pre class="bash"><code>installing git on ??</code></pre>
+<p><a href="https://happygitwithr.com/" class="uri">https://happygitwithr.com/</a></p>
+<div id="terminal" class="section level2">
+<h2>Terminal</h2>
+<p>The main process for the terminal are:</p>
+<ol style="list-style-type: decimal">
+<li>Change directory to the folder with your work</li>
+</ol>
+<pre class="bash"><code>cd my_directory</code></pre>
+<ol start="2" style="list-style-type: decimal">
+<li>Set up git in that folder with</li>
+</ol>
+<pre class="bash"><code>git init</code></pre>
+<ol start="3" style="list-style-type: decimal">
+<li>Now to take a snapshot, we do two things, first we let git know if any files should be snapshotted with</li>
+</ol>
+<pre class="bash"><code>git add myfile.R</code></pre>
+<ol start="4" style="list-style-type: decimal">
+<li>When we are ready to take a snapshot, then we run</li>
+</ol>
+<pre class="bash"><code>git commit -am &quot;Messsage about where I am upto&quot;</code></pre>
+</div>
+<div id="built-in-rstudio-git-gui" class="section level2">
+<h2>Built in Rstudio git GUI</h2>
+<p>Most of this can be done with the built in git GUI in Rstudio. If you open a project with git already running, then you should be a git tab</p>
+<p><img src="/post/2019-02-27-mangling-your-git-and-other-euphemisms_files/Screen%20Shot%202019-02-27%20at%208.03.41%20am.png" style="width:50.0%" /></p>
+<p>Click on this and then on <code>Commit</code> to open the following dialog box</p>
+<p><img src="/post/2019-02-27-mangling-your-git-and-other-euphemisms_files/Screen%20Shot%202019-02-27%20at%208.05.59%20am.png" style="width:100.0%" /></p>
+<p>The process is now just:</p>
+<ul>
+<li>select the files you want to save in the top left,</li>
+<li>Add a commit message in the top right, and</li>
+<li>click Commit.</li>
+</ul>
+<p>All done.</p>
+</div>
+<div id="github-desktop" class="section level2">
+<h2>Github desktop</h2>
+<p>A more polished app to help is the github desktop app - this is here:</p>
+<p><a href="https://desktop.github.com/" class="uri">https://desktop.github.com/</a></p>
+<p>Everything else in git is best found by asking someone, or searching the internet.</p>
+</div>

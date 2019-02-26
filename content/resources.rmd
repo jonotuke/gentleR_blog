@@ -32,3 +32,14 @@ or
 
 <https://www.rstudio.com/resources/cheatsheets/>
 
+# Git resources
+
+Github has a great tutorial:
+
+<https://guides.github.com/activities/hello-world/>
+
+Also there is the e-book:
+
+<https://happygitwithr.com/>
+
+

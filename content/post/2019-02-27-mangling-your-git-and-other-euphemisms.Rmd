@@ -1,0 +1,89 @@
+---
+title: Mangling your git and other euphemisms
+author: Jono Tuke
+date: '2019-02-27'
+slug: mangling-your-git-and-other-euphemisms
+categories:
+  - git
+tags:
+  - git
+draft: no
+---
+
+The program git gives you the ability to take snapshots of your work and at a later date get stuff back. No more files named
+
+```{bash, eval = FALSE}
+analysis_final.R
+analysis_28thFeb.R
+analysis_I_hope_this_is_the_end.R
+```
+
+Installing `git` depends on your system, try looking at 
+
+<https://guides.github.com/activities/hello-world/>
+
+or
+
+searching
+
+```{bash, eval = FALSE}
+installing git on ??
+```
+
+<https://happygitwithr.com/>
+
+## Terminal
+
+The main process for the terminal are:
+
+1. Change directory to the folder with your work
+
+```{bash, eval = FALSE}
+cd my_directory
+```
+
+2. Set up git in that folder with
+
+```{bash, eval = FALSE}
+git init
+```
+
+3. Now to take a snapshot, we do two things, first we let git know if any files should be snapshotted with 
+
+```{bash, eval = FALSE}
+git add myfile.R
+```
+
+4. When we are ready to take a snapshot, then we run
+
+```{bash, eval = FALSE}
+git commit -am "Messsage about where I am upto"
+```
+
+
+## Built in Rstudio git GUI
+
+Most of this can be done with the built in git GUI in Rstudio. If you open a project with git already running, then you should be a git tab
+
+![](/post/2019-02-27-mangling-your-git-and-other-euphemisms_files/Screen Shot 2019-02-27 at 8.03.41 am.png){width="50%"}
+
+Click on this and then on `Commit` to open the following dialog box
+
+![](/post/2019-02-27-mangling-your-git-and-other-euphemisms_files/Screen Shot 2019-02-27 at 8.05.59 am.png){width=100%}
+
+The process is now just:
+
+- select the files you want to save in the top left, 
+- Add a commit message in the top right, and
+- click Commit. 
+
+All done. 
+
+## Github desktop
+
+A more polished app to help is the github desktop app - this is here:
+
+<https://desktop.github.com/>
+
+Everything else in git is best found by asking someone, or searching the internet. 
+
