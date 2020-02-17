@@ -7,7 +7,7 @@ To keep up with all of the GentleR happenings, subscribe to our mailing list her
 
 If you have any questions, queries or ideas (or want to volunteer to give a special session), join the discussion on our slack channel here: 
 
-[GentleR slack channel] (https://join.slack.com/t/gentler/shared_invite/enQtNTU0MzM3NjQwNTAwLTkyYzcyMDA1YWZhYTI5NmExM2U5OWM2ZTQwYWExN2M0NGVlNDJhZGE3MjkzNzJiNTE0N2VhMjQwYjAyNjQxODY)
+[GentleR slack channel] (https://join.slack.com/t/gentler/shared_invite/enQtOTU4NTQ3MDg4NzkwLTBmNjE4ZDc1MzNiYzc3ZDVkMzBkNDNmNTk3Yzg5ZDEzNDJmMDQ0Y2JjNWRiMjcwNDg3MDZjY2Q3OGNhNWRmOTQ)
 
 Or email us directly at:
 
